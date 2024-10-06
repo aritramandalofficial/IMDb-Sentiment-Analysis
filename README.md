@@ -1,4 +1,4 @@
-# IMDb-Sentiment-Analysis
+# IMDb-Sentiment-Analysis using Machine Learning
 
 This project involves building a sentiment analysis prediction model using Logistic Regression. We used feature extraction to analyze the attributes of the IMDb reviews. This approach helps us to classify the sentiments in Positive and Negative.
 
